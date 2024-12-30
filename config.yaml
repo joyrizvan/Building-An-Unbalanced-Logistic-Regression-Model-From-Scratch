@@ -1,0 +1,13 @@
+# config.yaml
+data:
+  training_data_path: "data/raw/risk-train.txt"
+  test_data_path: "data/raw/random_rows.txt"        #Placeholder for testing data
+  output_dir: "data/saved_model/trained_model.pkl"
+
+model:
+  learning_rate: 0.01
+  num_iterations: 1000
+
+split:
+  test_size: 0.25
+  random_state: 42

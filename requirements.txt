@@ -1,0 +1,6 @@
+pip install pyyaml
+pip install pandas
+pip install numpy
+pip install sklearn
+pip install matplotlib
+pip install seaborne
