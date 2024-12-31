@@ -1,6 +1,6 @@
 
 ## Customer Risk Prediction
-## Authors: Rizvan Nahif
+## Authors: David Abad, Rizvan Nahif, Navpreet Kaur Dusanje, Darshil Shah
 ### Description
 
 This project implements a custom logistic regression model from scratch, designed to classify binary data.
